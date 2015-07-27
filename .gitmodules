@@ -1,0 +1,6 @@
+[submodule "vendor/zendframework/zend-eventmanager"]
+	path = vendor/zendframework/zend-eventmanager
+	url = git://github.com/zendframework/zend-eventmanager.git
+[submodule "vendor/zendframework/zend-barcode"]
+	path = vendor/zendframework/zend-barcode
+	url = git://github.com/zendframework/zend-barcode.git
