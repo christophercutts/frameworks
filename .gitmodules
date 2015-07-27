@@ -1,27 +1,27 @@
-[submodule "vendor/zendframework/zend-eventmanager"]
-	path = vendor/zendframework/zend-eventmanager
-	url = git://github.com/zendframework/zend-eventmanager.git
-[submodule "vendor/zendframework/zend-barcode"]
-	path = vendor/zendframework/zend-barcode
-	url = git://github.com/zendframework/zend-barcode.git
-[submodule "vendor/zendframework/zend-authentication"]
-	path = vendor/zendframework/zend-authentication
+[submodule "public/vendor/zendframework/zend-authentication"]
+	path = public/vendor/zendframework/zend-authentication
 	url = git://github.com/zendframework/zend-authentication.git
-[submodule "vendor/zendframework/zend-json"]
-	path = vendor/zendframework/zend-json
+[submodule "public/vendor/zendframework/zend-barcode"]
+	path = public/vendor/zendframework/zend-barcode
+	url = git://github.com/zendframework/zend-barcode.git
+[submodule "public/vendor/zendframework/zend-eventmanager"]
+	path = public/vendor/zendframework/zend-eventmanager
+	url = git://github.com/zendframework/zend-eventmanager.git
+[submodule "public/vendor/zendframework/zend-json"]
+	path = public/vendor/zendframework/zend-json
 	url = git://github.com/zendframework/zend-json.git
-[submodule "vendor/zendframework/zend-math"]
-	path = vendor/zendframework/zend-math
+[submodule "public/vendor/zendframework/zend-math"]
+	path = public/vendor/zendframework/zend-math
 	url = git://github.com/zendframework/zend-math.git
-[submodule "vendor/zendframework/zend-serializer"]
-	path = vendor/zendframework/zend-serializer
+[submodule "public/vendor/zendframework/zend-serializer"]
+	path = public/vendor/zendframework/zend-serializer
 	url = git://github.com/zendframework/zend-serializer.git
-[submodule "vendor/zendframework/zend-servicemanager"]
-	path = vendor/zendframework/zend-servicemanager
+[submodule "public/vendor/zendframework/zend-servicemanager"]
+	path = public/vendor/zendframework/zend-servicemanager
 	url = git://github.com/zendframework/zend-servicemanager.git
-[submodule "vendor/zendframework/zend-stdlib"]
-	path = vendor/zendframework/zend-stdlib
+[submodule "public/vendor/zendframework/zend-stdlib"]
+	path = public/vendor/zendframework/zend-stdlib
 	url = git://github.com/zendframework/zend-stdlib.git
-[submodule "vendor/zendframework/zend-validator"]
-	path = vendor/zendframework/zend-validator
+[submodule "public/vendor/zendframework/zend-validator"]
+	path = public/vendor/zendframework/zend-validator
 	url = git://github.com/zendframework/zend-validator.git
