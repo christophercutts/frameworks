@@ -4,3 +4,24 @@
 [submodule "vendor/zendframework/zend-barcode"]
 	path = vendor/zendframework/zend-barcode
 	url = git://github.com/zendframework/zend-barcode.git
+[submodule "vendor/zendframework/zend-authentication"]
+	path = vendor/zendframework/zend-authentication
+	url = git://github.com/zendframework/zend-authentication.git
+[submodule "vendor/zendframework/zend-json"]
+	path = vendor/zendframework/zend-json
+	url = git://github.com/zendframework/zend-json.git
+[submodule "vendor/zendframework/zend-math"]
+	path = vendor/zendframework/zend-math
+	url = git://github.com/zendframework/zend-math.git
+[submodule "vendor/zendframework/zend-serializer"]
+	path = vendor/zendframework/zend-serializer
+	url = git://github.com/zendframework/zend-serializer.git
+[submodule "vendor/zendframework/zend-servicemanager"]
+	path = vendor/zendframework/zend-servicemanager
+	url = git://github.com/zendframework/zend-servicemanager.git
+[submodule "vendor/zendframework/zend-stdlib"]
+	path = vendor/zendframework/zend-stdlib
+	url = git://github.com/zendframework/zend-stdlib.git
+[submodule "vendor/zendframework/zend-validator"]
+	path = vendor/zendframework/zend-validator
+	url = git://github.com/zendframework/zend-validator.git
